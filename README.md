@@ -11,13 +11,12 @@ If you want to get in touch you can email me at yuseifabdillah@gmail.com or send
 <a href="https://medium.com/@yuseifabdillah/grow-your-flutter-skills-with-google-dev-resources-c36abfc689d">
   <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZesmobXNtF6yv9fk_vXrjA.png" alt="Article Thumbnail" width="200" height="200" hspace="10"/>
 </a>
-  ###### Grow Your Flutter Skills With Google Dev Resources
-
-<a href="https://medium.com/@yuseifabdillah/grow-your-flutter-skills-with-google-dev-resources-c36abfc689d">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZesmobXNtF6yv9fk_vXrjA.png" alt="Article Thumbnail" width="200" height="200" hspace="10"/>
+<a href="https://medium.com/@yuseifabdillah/a-copywith-method-explained-to-me-as-im-5-14c2960d85c">
+  <img src="https://miro.medium.com/v2/resize:fit:588/format:webp/1*Mbl4FvVAL0vrl1whUXsULg.png" alt="Article Thumbnail" width="200" height="200" hspace="10"/>
 </a>
-  ###### Grow Your Flutter Skills With Google Dev Resources
+<a href="https://medium.com/@yuseifabdillah/implements-extends-with-in-dart-i-didnt-understand-them-yet-1cd6613ead7">
+  <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*eQxq-nv3GcsQ6-2EUL71Kg.jpeg" alt="Article Thumbnail" width="200" height="200" hspace="10"/>
+</a>
 </p>
-
 
 
