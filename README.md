@@ -8,11 +8,11 @@ If you want to get in touch you can email me at yuseifabdillah@gmail.com or send
 #### Latest Medium Articles
 
 <p>
-<a href="https://medium.com/@yuseifabdillah/grow-your-flutter-skills-with-google-dev-resources-c36abfc689d" hspace="10">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZesmobXNtF6yv9fk_vXrjA.png" alt="Article Thumbnail" width="200" height="200"/>
+<a href="https://medium.com/@yuseifabdillah/grow-your-flutter-skills-with-google-dev-resources-c36abfc689d">
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZesmobXNtF6yv9fk_vXrjA.png" alt="Article Thumbnail" width="200" height="200" hspace="10"/>
 </a>
-<a href="https://medium.com/@yuseifabdillah/grow-your-flutter-skills-with-google-dev-resources-c36abfc689d" hspace="10">
-  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZesmobXNtF6yv9fk_vXrjA.png" alt="Article Thumbnail" width="200" height="200"/>
+<a href="https://medium.com/@yuseifabdillah/grow-your-flutter-skills-with-google-dev-resources-c36abfc689d">
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZesmobXNtF6yv9fk_vXrjA.png" alt="Article Thumbnail" width="200" height="200" hspace="10"/>
 </a>
 </p>
 
