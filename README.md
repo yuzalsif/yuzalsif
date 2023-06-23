@@ -6,9 +6,11 @@ If you want to get in touch you can email me at yuseifabdillah@gmail.com or send
 
 
 
-## Latest Medium Article
+#### Latest Medium Article
 
-[![Article Thumbnail](https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZesmobXNtF6yv9fk_vXrjA.png)](https://medium.com/@yuseifabdillah/grow-your-flutter-skills-with-google-dev-resources-c36abfc689d)
+<a href="https://medium.com/@yuseifabdillah/grow-your-flutter-skills-with-google-dev-resources-c36abfc689d">
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*ZesmobXNtF6yv9fk_vXrjA.png" alt="Article Thumbnail" width="100" height="100"/>
+</a>
 
 Grow Your Flutter Skills With Google Dev Resources.
 
